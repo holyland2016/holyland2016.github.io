@@ -74,7 +74,7 @@ github_skip_forks: true
 
 # Twitter
 twitter_user:
-twitter_tweet_button: true
+twitter_tweet_button: false
 
 # Google +1
 google_plus_one: false
@@ -104,3 +104,9 @@ google_analytics_tracking_id:
 facebook_like: false
 
 category_list: true
+
+#duoshuo
+duoshuo_comment: true
+
+#jiashare
+jia_share: true

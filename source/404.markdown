@@ -1,0 +1,15 @@
+---
+layout: page
+title: "404 Not Found"
+date: 2016-01-07 13:26:08 +0800
+comments: false
+---
+
+
+
+<script type="text/javascript">setTimeout(function(){top.location='http://holyland2016.github.io/blog/archives/';},6000)</script>
+![alt text]({{ root_url }}/images/404.jpg "404错误")
+
+抱歉，这个页面已经被外星人绑架了
+
+5秒钟后将带您返回地球
